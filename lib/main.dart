@@ -50,7 +50,7 @@ class HomePage extends StatelessWidget {
               ),
               const SizedBox(height: 30),
               const Text(
-                '¡Funciona Perfectamente!',
+                '¡Funciona Perfectamente! hola borys ',
                 style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
@@ -60,10 +60,7 @@ class HomePage extends StatelessWidget {
               const SizedBox(height: 20),
               const Text(
                 'Dermobotanics Web App',
-                style: TextStyle(
-                  fontSize: 24,
-                  color: Colors.white70,
-                ),
+                style: TextStyle(fontSize: 24, color: Colors.white70),
               ),
               const SizedBox(height: 40),
               ElevatedButton.icon(
